@@ -30,6 +30,7 @@ With the content marked up properly, add styling to the page using CSS. There’
 * Place all your markup in `index.html`.
 * Place all your styles in `style.css`.
 * Do not alter or remove the `reset.css` file in the `css` folder.
+* Do not alter or remove any of the `.gitignore` files.
 * The only files you may add are images, which, if included, must go in the `img` folder.
 * Leave the inclusion of `reset.css` in the `head` of `index.html` alone.
 
