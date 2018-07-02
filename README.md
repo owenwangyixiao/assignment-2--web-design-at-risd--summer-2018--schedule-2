@@ -23,11 +23,13 @@ With the content marked up properly, add styling to the page using CSS. There’
 2. `content/content--arvo-part.txt`
 3. `content/content--boards-of-canada.txt`
 4. `content/content--dawn-of-midi.txt`
-5. `css/main.css`
+5. `css/reset.css`
+6. `css/main.css`
 
 ## Rules
 * Place all your markup in `index.html`.
 * Place all your styles in `style.css`.
+* Do not alter or remove the `reset.css` file in the `css` folder.
 * The only files you may add are images, which, if included, must go in the `img` folder.
 * Leave the inclusion of `reset.css` in the `head` of `index.html` alone.
 
