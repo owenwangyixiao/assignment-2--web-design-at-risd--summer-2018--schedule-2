@@ -25,6 +25,7 @@ With the content marked up properly, add styling to the page using CSS. There’
 4. `content/content--dawn-of-midi.txt`
 5. `css/reset.css`
 6. `css/main.css`
+7. `img/`
 
 ## Rules
 * Only submit files that are required by your project: Do not submit working files, such as `.psd`, `.ai`, `.indd`, or `.sketch` files.
