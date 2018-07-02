@@ -27,6 +27,8 @@ With the content marked up properly, add styling to the page using CSS. There’
 6. `css/main.css`
 
 ## Rules
+* Only submit files that are required by your project: Do not submit working files, such as `.psd`, `.ai`, `.indd`, or `.sketch` files.
+* Use lowercase, combined with kebab case, to name folders and files (`do-this` or `do-this.html`); no spaces in folder or file names (`not this`); no camel case (`notThis`); no snake case (`not_this`).
 * Place all your markup in `index.html`.
 * Place all your styles in `style.css`.
 * Do not alter or remove the `reset.css` file in the `css` folder.
