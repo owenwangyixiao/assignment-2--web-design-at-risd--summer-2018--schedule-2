@@ -18,7 +18,8 @@ section:nth-child(2) {
 }
 
 section:nth-child(3) {
-   background-color: blue;
+   background:
+   url('../img/third page.jpg') no-repeat fixed 50% 50% / cover;
 }
 
 section:nth-child(4) {
