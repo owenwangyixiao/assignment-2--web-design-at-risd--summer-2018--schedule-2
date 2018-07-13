@@ -13,7 +13,8 @@ section:nth-child(1) {
 }
 
 section:nth-child(2) {
-   background:red;
+   background:
+   url('../img/second page.jpg') no-repeat fixed 50% 50% / cover;
 }
 
 section:nth-child(3) {
