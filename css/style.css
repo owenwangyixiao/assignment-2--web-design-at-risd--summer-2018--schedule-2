@@ -4,12 +4,12 @@
 }
 
 section {
-   height: 300px;
+   height: 1500px;
 }
 
 section:nth-child(1) {
    background:
-   url('../css/img/cover.jpg');
+   url('../img/cover.jpg') no-repeat fixed 50% 50% / cover;
 }
 
 section:nth-child(2) {
