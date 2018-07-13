@@ -1,0 +1,34 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+section {
+   height: 300px;
+}
+
+section:nth-child(1) {
+   background:
+   url('../css/img/cover.jpg');
+}
+
+section:nth-child(2) {
+   background:red;
+}
+
+section:nth-child(3) {
+   background-color: blue;
+}
+
+section:nth-child(4) {
+   background-color: rebeccapurple;
+}
+
+section div {
+   width: 90%;
+   margin: auto;
+}
+
+p {
+   margin: auto;
+}
