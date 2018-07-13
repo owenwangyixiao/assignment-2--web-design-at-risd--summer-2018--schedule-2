@@ -49,5 +49,15 @@ p {
 }
 
 p:nth-child(1) {
-   margin-top:10%;
+   margin-top:15%;
+}
+
+p:nth-child(6){
+   margin-top: 5%
+}
+
+p:nth-child(6):hover {
+   font-size: 1.5rem;
+   opacity: 0.3;
+   transition-duration: 1s;
 }
